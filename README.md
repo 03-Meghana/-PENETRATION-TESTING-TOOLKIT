@@ -56,3 +56,5 @@ Applications -
              - Portfolio Project: Showcases Python development, modular architecture, and cybersecurity knowledge in practical form.
               
 Output - 
+
+![Image](https://github.com/user-attachments/assets/ee04e451-93f8-4853-8b6a-aa9e964fdc60)
